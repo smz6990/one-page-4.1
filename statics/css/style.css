@@ -66,9 +66,10 @@ h1, h2, h3, h4, h5, h6 {
   background: #052c3f;
   padding: 22px 0;
 }
+/*
 #header.header-transparent {
   background: none;
-}
+}*/
 #header.header-scrolled {
   background: rgba(5, 44, 63, 0.8);
   padding: 12px 0;
